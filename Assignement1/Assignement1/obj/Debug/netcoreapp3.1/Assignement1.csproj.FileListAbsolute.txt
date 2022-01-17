@@ -1,0 +1,13 @@
+/Users/mathiscamard/Projects/Assignement1/Assignement1/bin/Debug/netcoreapp3.1/Assignement1.deps.json
+/Users/mathiscamard/Projects/Assignement1/Assignement1/bin/Debug/netcoreapp3.1/Assignement1.runtimeconfig.json
+/Users/mathiscamard/Projects/Assignement1/Assignement1/bin/Debug/netcoreapp3.1/Assignement1.runtimeconfig.dev.json
+/Users/mathiscamard/Projects/Assignement1/Assignement1/bin/Debug/netcoreapp3.1/Assignement1.dll
+/Users/mathiscamard/Projects/Assignement1/Assignement1/bin/Debug/netcoreapp3.1/Assignement1.pdb
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.csproj.AssemblyReference.cache
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.AssemblyInfoInputs.cache
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.AssemblyInfo.cs
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.csproj.CoreCompileInputs.cache
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.dll
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.pdb
+/Users/mathiscamard/Projects/Assignement1/Assignement1/obj/Debug/netcoreapp3.1/Assignement1.genruntimeconfig.cache
